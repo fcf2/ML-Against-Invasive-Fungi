@@ -28,8 +28,8 @@ Download the following datasets from the **Broad Institute Drug Repurposing Hub*
 
 | File | Version | Source |
 |------|----------|--------|
-| `sample_information.txt` | 2020-03-24 | [broadinstitute.org/repurposing](http://www.broadinstitute.org/repurposing) | repurposing_samples_20200324.txt
-| `drug_information.txt` | 2018-09-07 | [broadinstitute.org/repurposing](http://www.broadinstitute.org/repurposing) | repurposing_drugs_20180907.txt
+| `repurposing_samples_20200324.txt` | 2020-03-24 | [broadinstitute.org/repurposing](http://www.broadinstitute.org/repurposing) | 
+| `repurposing_drugs_20180907.txt` | 2018-09-07 | [broadinstitute.org/repurposing](http://www.broadinstitute.org/repurposing) | 
 
 ---
 
