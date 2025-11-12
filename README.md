@@ -74,7 +74,10 @@ Results_Teste_Pl_UP
 Results_Teste_Af_UP  
 Results_Teste_Fp_UP  
 
-Each result file contains model-predicted protein-ligand binding scores for the respective fungal targets.
+Each result file contains model-predicted protein-ligand binding scores for the respective fungal targets.  
+
+
+7. Docking...ver paper
 
 ---
 
