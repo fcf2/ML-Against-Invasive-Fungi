@@ -55,11 +55,11 @@ For each species above, create files containing:
 
 Name the resulting files as follows:
 
-Seq_Af_Uniprot
-Seq_Ca_Uniprot
-Seq_Cn_Uniprot
-Seq_Pl_Uniprot
-Seq_Fp_Uniprot
+Seq_Af_Uniprot: Exp3(targets from uniprot)-Seq Af Uniprot.csv
+Seq_Ca_Uniprot: Exp3(targets from uniprot)-Seq Ca Uniprot.csv
+Seq_Cn_Uniprot: Exp3(targets from uniprot)-Seq Cn Uniprot.csv
+Seq_Pl_Uniprot: Exp3(targets from uniprot)-Seq Pl Uniprot.csv
+Seq_Fp_Uniprot: Exp3(targets from uniprot)-Seq Fp Uniprot.csv
 
 ---
 
