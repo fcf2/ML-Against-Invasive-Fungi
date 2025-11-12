@@ -68,11 +68,11 @@ Run **AI-Bind** to generate averaged predictions for each sequence file.
 
 Expected output files:
 
-Results_Teste_Ca_UP
-Results_Teste_Cn_UP
-Results_Teste_Pl_UP
-Results_Teste_Af_UP
-Results_Teste_Fp_UP
+Results_Teste_Ca_UP  
+Results_Teste_Cn_UP  
+Results_Teste_Pl_UP  
+Results_Teste_Af_UP  
+Results_Teste_Fp_UP  
 
 Each result file contains model-predicted protein-ligand binding scores for the respective fungal targets.
 
