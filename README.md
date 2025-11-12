@@ -36,11 +36,11 @@ Download the following datasets from the **Broad Institute Drug Repurposing Hub*
 ### 4. Prepare Fungal Target Sequences
 Extract the **target amino acid codes** (`target_aa_code`) for each fungal species from their respective `.pdb` structures:
 
-- *Candida albicans* (**Ca**)  
-- *Aspergillus fumigatus* (**Af**)  
-- *Cryptococcus neoformans* (**Cn**)  
-- *Paracoccidioides lutzii* (**Pl**)  
-- *Fonsecaea pedrosoi* (**Fp**)
+- *Candida albicans* (**Ca**)  Ca_FAD.pdb
+- *Aspergillus fumigatus* (**Af**)  Af_FAD.pdb
+- *Cryptococcus neoformans* (**Cn**)  Cn_FAD.pdb
+- *Paracoccidioides lutzii* (**Pl**)  Pl_FAD.pdb
+- *Fonsecaea pedrosoi* (**Fp**) Fp_FAD.pdb
 
 ---
 
