@@ -305,7 +305,7 @@ amiprilose	Phase 3	CD antagonist
 amisulpride	Launched	dopamine receptor antagonist	DRD2|DRD3|HTR2A|HTR7	neurology/psychiatry	psychosis|bipolar disorder|schizophrenia
 amitifadine	Phase 3	serotonin transporter (SERT) inhibitor	SLC6A2|SLC6A3|SLC6A4		
 amitraz	Launched	adrenergic receptor agonist	ADRA1A|ADRA2A	infectious disease	generalized demodicosis
-amitriptyline	Launched	norepinephrine inhibitor|norepinephrine reuptake inhibitor|serotonin receptor antagonist|serotonin–norepinephrine reuptake inhibitor (SNRI)	ADRA1A|ADRA1B|ADRA1D|ADRA2A|ADRB1|ADRB2|ADRB3|CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|HRH1|HRH2|HRH4|HTR1A|HTR1B|HTR1D|HTR2A|HTR2C|HTR6|HTR7|KCNA1|KCND2|KCND3|KCNQ2|KCNQ3|NTRK1|NTRK2|OPRD1|OPRK1|OPRM1|SIGMAR1|SLC6A2|SLC6A4	neurology/psychiatry	depression
+amitriptyline	Launched	norepinephrine inhibitor|norepinephrine reuptake inhibitor|serotonin receptor antagonist|serotonin√ênorepinephrine reuptake inhibitor (SNRI)	ADRA1A|ADRA1B|ADRA1D|ADRA2A|ADRB1|ADRB2|ADRB3|CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|HRH1|HRH2|HRH4|HTR1A|HTR1B|HTR1D|HTR2A|HTR2C|HTR6|HTR7|KCNA1|KCND2|KCND3|KCNQ2|KCNQ3|NTRK1|NTRK2|OPRD1|OPRK1|OPRM1|SIGMAR1|SLC6A2|SLC6A4	neurology/psychiatry	depression
 amlexanox	Launched	histamine receptor modulator	FGF1|IL3|PDE4A|PDE4B|PDE4C|PDE4D|S100A12|S100A13	dental|pulmonary|ophthalmology|allergy	aphthous ulcers|asthma|conjunctivitis|allergic rhinitis
 amlodipine	Launched	calcium channel blocker	CA1|CACNA1B|CACNA1C|CACNA1D|CACNA1F|CACNA1S|CACNA2D1|CACNA2D3|CACNB1|CACNB2|SMPD1	cardiology	hypertension|chronic stable angina|vasospastic angina|coronary artery disease (CAD)
 ammonium-glycyrrhizinate	Launched	thrombin inhibitor	HSD11B1|HSD11B2|SLCO1B1|SLCO1B3	dermatology	cosmetic
@@ -401,7 +401,7 @@ aprepitant	Launched	tachykinin antagonist	TACR1	gastroenterology	nausea|vomiting
 apricitabine	Phase 3	nucleoside reverse transcriptase inhibitor			
 aprindine	Launched	voltage-gated sodium channel blocker	CALM1|SCN5A	cardiology	cardiac arrythmia
 aptiganel	Phase 3	glutamate receptor antagonist	GRIN1		
-APTO-253	Phase 1	krüppel-like factor expression enhancer	KLF4		
+APTO-253	Phase 1	kr¬üppel-like factor expression enhancer	KLF4		
 APY-29	Preclinical	serine/threonine kinase inhibitor	ERN1		
 APY0201	Preclinical	phosphoinositide dependent kinase inhibitor	IL12A|IL12B|PIKFYVE		
 AP1903	Phase 1/Phase 2				
@@ -1628,7 +1628,7 @@ desoximetasone	Launched	glucocorticoid receptor agonist	NR3C1|PLA2G1B	dermatolog
 desoxycorticosterone-pivalate	Launched	corticosteroid agonist	NR3C2	endocrinology	Addison's disease
 desoxycortone	Preclinical	mineralocorticoid receptor agonist	NR3C1|NR3C2		
 desoxypeganine	Phase 1	acetylcholinesterase inhibitor|monoamine oxidase inhibitor	ACHE		
-desvenlafaxine	Launched	serotonin–norepinephrine reuptake inhibitor (SNRI)	SLC6A2|SLC6A3|SLC6A4	neurology/psychiatry	depression
+desvenlafaxine	Launched	serotonin√ênorepinephrine reuptake inhibitor (SNRI)	SLC6A2|SLC6A3|SLC6A4	neurology/psychiatry	depression
 detomidine	Launched	adrenergic receptor agonist	ADRA2A	neurology/psychiatry	sedative
 dexamethasone	Launched	glucocorticoid receptor agonist	ANXA1|NOS2|NR0B1|NR3C1|NR3C2	endocrinology|rheumatology|allergy|gastroenterology|hematology|neurology/psychiatry|dermatology	hypercalcemia|rheumatoid arthritis|psoriatic arthritis|osteoarthritis|allergic rhinitis|ulcerative colitis|anemia|multiple sclerosis|enteritis|lupus|dermatitis herpetiformis (DH)|nephrotic syndrome|psoriasis
 dexamethasone-acetate	Launched	glucocorticoid receptor agonist		endocrinology|rheumatology|allergy|gastroenterology|hematology|neurology/psychiatry|dermatology	hypercalcemia|rheumatoid arthritis|psoriatic arthritis|osteoarthritis|allergic rhinitis|ulcerative colitis|anemia|multiple sclerosis|enteritis|lupus|dermatitis herpetiformis (DH)|nephrotic syndrome|psoriasis
@@ -1794,7 +1794,7 @@ doramectin	Launched			infectious disease	gastrointestinal roundworms
 doripenem	Launched	bacterial cell wall synthesis inhibitor	DPEP1	infectious disease	intra-abdominal infections|urinary tract infections|pyelonephritis
 dorsomorphin	Preclinical	AMPK inhibitor	ACVR1|BMPR1A|BMPR1B|EPHA2|FKBP1A|FLT1|FLT3|KDR|LCK|MKNK1|PRKAA1|RPS6KA1|SRC		
 dorzolamide	Launched	carbonic anhydrase inhibitor	CA1|CA12|CA14|CA2|CA4|CA7	ophthalmology	intraocular pressure|glaucoma
-dosulepin	Launched	norepinephrine reuptake inhibitor|serotonin–norepinephrine reuptake inhibitor (SNRI)|tricyclic antidepressant	CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|HRH1|SLC6A2|SLC6A4	neurology/psychiatry	depression
+dosulepin	Launched	norepinephrine reuptake inhibitor|serotonin√ênorepinephrine reuptake inhibitor (SNRI)|tricyclic antidepressant	CHRM1|CHRM2|CHRM3|CHRM4|CHRM5|HRH1|SLC6A2|SLC6A4	neurology/psychiatry	depression
 dovitinib	Phase 3	EGFR inhibitor|FGFR inhibitor|FLT3 inhibitor|PDGFR tyrosine kinase receptor inhibitor|VEGFR inhibitor	CSF1R|EGFR|FGFR1|FGFR2|FGFR3|FLT1|FLT3|FLT4|INSR|KDR|KIT|PDGFRA|PDGFRB		
 doxapram	Launched	potassium channel blocker	KCNK3|KCNK9	pulmonary|neurology/psychiatry	respiratory depression|central nervous system depression|acute hypercapnia (AHC)
 doxazosin	Launched	adrenergic receptor antagonist	ADRA1A|ADRA1B|ADRA1D|KCNH2|KCNH6|KCNH7	urology|cardiology	benign prostatic hyperplasia (BPH)|hypertension
@@ -1829,7 +1829,7 @@ droxinostat	Preclinical	HDAC inhibitor	HDAC6|HDAC8
 DSR-6434	Preclinical	toll-like receptor agonist	TLR7		
 DS2-(806622)	Preclinical				
 DU-728	Phase 1	structural glycoprotein antagonist	ITGA2B|ITGB3		
-duloxetine	Launched	norepinephrine reuptake inhibitor|serotonin–norepinephrine reuptake inhibitor (SNRI)	HTR2A|HTR2C|HTR6|SLC6A2|SLC6A3|SLC6A4	neurology/psychiatry	depression|generalized anxiety disorder (GAD)|muscle pain|peripheral neuropathy
+duloxetine	Launched	norepinephrine reuptake inhibitor|serotonin√ênorepinephrine reuptake inhibitor (SNRI)	HTR2A|HTR2C|HTR6|SLC6A2|SLC6A3|SLC6A4	neurology/psychiatry	depression|generalized anxiety disorder (GAD)|muscle pain|peripheral neuropathy
 DUP-697	Phase 1	cyclooxygenase inhibitor	PTGS2		
 dutasteride	Launched	5 alpha reductase inhibitor	SRD5A1|SRD5A2	urology	benign prostatic hyperplasia (BPH)
 DVD-111	Phase 2				
@@ -3104,7 +3104,7 @@ lobendazole	Preclinical	anthelmintic agent
 lobenzarit	Launched	immunosuppressant		rheumatology	rheumatoid arthritis
 lodoxamide	Launched	histamine receptor antagonist		ophthalmology	vernal keratoconjunctivitis (VKC)
 lofemizole	Phase 3	cyclooxygenase inhibitor			
-lofepramine	Launched	norepinephrine reuptake inhibitor|serotonin–norepinephrine reuptake inhibitor (SNRI)	HTR1A|SLC6A2|SLC6A4	neurology/psychiatry	depression
+lofepramine	Launched	norepinephrine reuptake inhibitor|serotonin√ênorepinephrine reuptake inhibitor (SNRI)	HTR1A|SLC6A2|SLC6A4	neurology/psychiatry	depression
 lofexidine	Launched	adrenergic receptor agonist	ADRA2A	neurology/psychiatry	opioid withdrawal
 lomefloxacin	Launched	bacterial DNA gyrase inhibitor	TOP2A	infectious disease	respiratory tract infections|urinary tract infections
 lomeguatrib	Phase 2	O6-alkylguanine-DNA alkyltransferase inhibitor	MGMT		
@@ -3423,7 +3423,7 @@ mifobate	Phase 2	PPAR receptor antagonist	PPARG
 miglitol	Launched	glucosidase inhibitor	GAA|GANAB|GANC|MGAM	endocrinology	diabetes mellitus
 miglustat	Launched	Glycosyl transferase inhibitor	UGCG	hematology	Gaucher disease
 milacemide	Phase 3	monoamine oxidase inhibitor	MAOB		
-milnacipran	Launched	serotonin–norepinephrine reuptake inhibitor (SNRI)	GRIN1|GRIN2A|GRIN2B|GRIN2C|GRIN2D|GRIN3A|GRIN3B|SLC6A2|SLC6A4	rheumatology	fibromyalgia
+milnacipran	Launched	serotonin√ênorepinephrine reuptake inhibitor (SNRI)	GRIN1|GRIN2A|GRIN2B|GRIN2C|GRIN2D|GRIN3A|GRIN3B|SLC6A2|SLC6A4	rheumatology	fibromyalgia
 milrinone	Launched	phosphodiesterase inhibitor	PDE2A|PDE3A|PDE3B|PDE5A	cardiology	congestive heart failure
 miltefosine	Launched	membrane integrity inhibitor	PLA2G1B	infectious disease	leishmaniasis
 mimosine	Preclinical	DNA replication inhibitor	CCL2|SHMT1|SHMT2|TYR		
@@ -4936,7 +4936,7 @@ SHP099	Preclinical	protein tyrosine kinase inhibitor	PTPN11
 SIB-1553A	Phase 2	acetylcholine receptor agonist	CHRNB4		
 SIB-1757	Preclinical	glutamate receptor antagonist	GRM5		
 SIB-1893	Preclinical	glutamate receptor antagonist	GRM4|GRM5		
-sibutramine	Withdrawn	serotonin–norepinephrine reuptake inhibitor (SNRI)	SLC6A2|SLC6A3|SLC6A4		
+sibutramine	Withdrawn	serotonin√ênorepinephrine reuptake inhibitor (SNRI)	SLC6A2|SLC6A3|SLC6A4		
 SID-7969543	Preclinical	steroidogenic factor antagonist	NR5A1		
 siguazodan	Phase 1	phosphodiesterase inhibitor	PDE3A		
 sildenafil	Launched	phosphodiesterase inhibitor	PDE5A|PDE6G|PDE6H|SLCO1B1|SLCO1B3	cardiology	hypertension
@@ -5730,7 +5730,7 @@ veliparib	Phase 3	PARP inhibitor	PARP1|PARP2
 velneperit	Phase 2	neuropeptide receptor antagonist	NPY5R		
 vemurafenib	Launched	RAF inhibitor	BRAF|RAF1	oncology	melanoma
 venetoclax	Launched	BCL inhibitor	BCL2	hematologic malignancy	chronic lymphocytic leukemia (CLL)
-venlafaxine	Launched	adrenergic inhibitor|norepinephrine reuptake inhibitor|serotonin–norepinephrine reuptake inhibitor (SNRI)	SLC6A2|SLC6A3|SLC6A4	neurology/psychiatry	depression|generalized anxiety disorder (GAD)|panic disorders|social anxiety disorder
+venlafaxine	Launched	adrenergic inhibitor|norepinephrine reuptake inhibitor|serotonin√ênorepinephrine reuptake inhibitor (SNRI)	SLC6A2|SLC6A3|SLC6A4	neurology/psychiatry	depression|generalized anxiety disorder (GAD)|panic disorders|social anxiety disorder
 VER-155008	Preclinical	HSP inhibitor	HSPA1A		
 VER-49009	Preclinical	HSP inhibitor	HSP90AA1		
 verapamil	Launched	calcium channel blocker	CACNA1A|CACNA1B|CACNA1C|CACNA1D|CACNA1F|CACNA1G|CACNA1I|CACNA1S|CACNB1|CACNB2|CACNB3|CACNB4|CYP3A4|KCNA10|KCNA7|KCNH2|KCNJ11|NALCN|SCN5A|SLC29A4|SLC6A4	cardiology	hypertension
