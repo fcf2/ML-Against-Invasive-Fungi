@@ -34,7 +34,7 @@ Download the following datasets from the **Broad Institute Drug Repurposing Hub*
 ---
 
 ### 4. Prepare Fungal Target Sequences
-Extract the **target amino acid codes/sequence** (`target_aa_code`) for each fungal species from their respective `.pdb` structures or download it from this github page:
+Extract the **target amino acid codes/sequence** (`target_aa_code`) for each fungal species from their respective `.pdb` structures (download it from this github page):
 
 - *Candida albicans* (**Ca**):  Ca_FAD.pdb
 - *Aspergillus fumigatus* (**Af**):  Af_FAD.pdb
