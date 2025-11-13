@@ -1,1 +1,1 @@
-
+Threshold of 0.09 (±0.015) used it to extract the subset of compounds predicted to interact with the five fungi TRR1 targets. The top 40 ranked compounds, according to their maximal AI-Bind score over the five targets,
