@@ -45,7 +45,7 @@ Extract the **target amino acid codes/sequence** (`target_aa_code`) for each fun
 ---
 
 ### 5. Generate Input Files
-For each species above, create files containing or or download it from this github page:
+For each species above, download the input files from this github page:
 
 | Field | Description |
 |--------|-------------|
@@ -53,13 +53,13 @@ For each species above, create files containing or or download it from this gith
 | **SMILES** | Molecular structure in SMILES format |
 | **target_aa_code** | Target protein amino acid sequence code |
 
-Name the resulting files as follows:
+Name the files as follows:
 
-Seq_Af_Uniprot: Exp3(targets from uniprot)-Seq Af Uniprot.csv  
-Seq_Ca_Uniprot: Exp3(targets from uniprot)-Seq Ca Uniprot.csv  
-Seq_Cn_Uniprot: Exp3(targets from uniprot)-Seq Cn Uniprot.csv  
-Seq_Pl_Uniprot: Exp3(targets from uniprot)-Seq Pl Uniprot.csv  
-Seq_Fp_Uniprot: Exp3(targets from uniprot)-Seq Fp Uniprot.csv  
+1 Exp3(targets from uniprot)-Seq Af Uniprot.csv  
+2 Exp3(targets from uniprot)-Seq Ca Uniprot.csv  
+3 Exp3(targets from uniprot)-Seq Cn Uniprot.csv  
+4 Exp3(targets from uniprot)-Seq Pl Uniprot.csv  
+5 Exp3(targets from uniprot)-Seq Fp Uniprot.csv  
 
 ---
 
