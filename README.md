@@ -72,13 +72,13 @@ Results_Teste_Ca_UP
 Results_Teste_Cn_UP  
 Results_Teste_Pl_UP  
 Results_Teste_Af_UP  
-Results_Teste_Fp_UP  
+Results_Teste_Fp_UP    
 
 Results/Exp3-AIBind results.csv
 
 ### 7. Filtering  
 
-Each result file contains model-predicted protein-ligand binding scores for the respective fungal targets. Download it from this github page or use the ones you have generated.  Among all compounds from DRH predicted as interacting with all five fungi targets, rank them according to the maximal prediction score over the five targets. Exclude those duplicated, already reported to have antifungal activity, and the similar compounds (like Bacitracin and Bacitracin-zinc or Colistin and Colistimethate).
+Each result file contains model-predicted protein-ligand binding scores for the respective fungal targets. Download it from this github page or use the ones you have generated.  Among all compounds from DRH predicted as interacting with all five fungi targets, rank them according to the maximal prediction score over the five targets. Exclude those duplicated, already reported to have antifungal activity, and the similar compounds (like Bacitracin and Bacitracin-zinc or Colistin and Colistimethate).  
 Results/Results_top40/Moleculas_Repurp_selec - CR 24032025.csv
 
 
