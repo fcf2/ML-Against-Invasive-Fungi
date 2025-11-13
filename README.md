@@ -1,5 +1,5 @@
 # 🧫 ML-Against-Invasive-Fungi  
-**Multi-target Drug Repurposing Against Invasive Fungi Using a Multi-strategy Approach in a Data-poor Setting**
+JCIM submitted paper: **Multi-target Drug Repurposing Against Invasive Fungi Using a Multi-strategy Approach in a Data-poor Setting**
 
 This repository accompanies the research project/research paper **“Multi-target Drug Repurposing Against Invasive Fungi Using a Multi-strategy Approach in a Data-poor Setting.”**  
 It provides a reproducible workflow for generating AI-based predictions of protein-ligand interactions across multiple fungal targets.
