@@ -2,7 +2,18 @@
 JCIM submitted paper: **Multi-target Drug Repurposing Against Invasive Fungi Using a Multi-strategy Approach in a Data-poor Setting**
 
 This repository accompanies the research project/research paper **“Multi-target Drug Repurposing Against Invasive Fungi Using a Multi-strategy Approach in a Data-poor Setting.”**  
-It provides a reproducible workflow for generating AI-based predictions of protein-ligand interactions across multiple fungal targets.
+It provides a reproducible workflow for generating AI-based predictions of protein-ligand interactions across multiple fungal targets.  
+
+Authors  
+Fabiano Cavalcanti Fernandes1*, Karina Mayumi Sakita2*, Erika Seki Kioshima2, Marie-Dominique Devignes3, Bernard Maigret3, Maria Sueli Felipe4, Malika Smaïl-Tabbone3  
+
+1. Department of Computer Science, Federal Institute of Brasília - IFB, Taguatinga, Brazil  
+2. Department of Clinical Analysis and Biomedicine, The State University of Maringá, Maringá, Brazil  
+3. Lorraine Research Laboratory in Computer Science and its Applications - LORIA, University of Lorraine, Nancy, France  
+4. Genomic Sciences and Biotechnology, Catholic University of Brasilia, Brasilia, Brazil  
+
+* These authors equally contributed  
+
 
 ---
 
