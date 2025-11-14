@@ -5,7 +5,7 @@ This repository accompanies the research project/research paper **“Multi-targe
 It provides a reproducible workflow for generating AI-based predictions of protein-ligand interactions across multiple fungal targets.  
 
 Authors  
-Fabiano Cavalcanti Fernandes <sup>1*</sup>, Karina Mayumi Sakita2*, Erika Seki Kioshima2, Marie-Dominique Devignes3, Bernard Maigret3, Maria Sueli Felipe4, Malika Smaïl-Tabbone3  
+Fabiano Cavalcanti Fernandes <sup>1*</sup>, Karina Mayumi Sakita <sup>2*</sup>, Erika Seki Kioshima <sup>2</sup>, Marie-Dominique Devignes <sup>3</sup>, Bernard Maigret <sup>3</sup>, Maria Sueli Felipe <sup>4</sup>, Malika Smaïl-Tabbone <sup>3</sup>  
 
 1. Department of Computer Science, Federal Institute of Brasília - IFB, Taguatinga, Brazil  
 2. Department of Clinical Analysis and Biomedicine, The State University of Maringá, Maringá, Brazil  
