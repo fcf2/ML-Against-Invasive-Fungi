@@ -1,7 +1,7 @@
 # 🧫 ML-Against-Invasive-Fungi  
-JCIM submitted paper: **Multi-target Drug Repurposing Against Invasive Fungi Using a Multi-strategy Approach in a Data-poor Setting**
+ACS Omega submitted paper: **Repurposing of Bleomycetin Candidate Against Invasive Fungal Pathogens Using AI-Bind in a Data-poor Scenario**
 
-This repository accompanies the research project/research paper **“Multi-target Drug Repurposing Against Invasive Fungi Using a Multi-strategy Approach in a Data-poor Setting.”**  
+This repository accompanies the research project/research paper **“Repurposing of Bleomycetin Candidate Against Invasive Fungal Pathogens Using AI-Bind in a Data-poor Scenario”**  
 It provides a reproducible workflow for generating AI-based predictions of protein-ligand interactions across multiple fungal targets.  
 
 Authors  
@@ -117,7 +117,7 @@ The compounds Bleomycetin, Oritavancin, LY2510924 (methodology described in Figu
 If you use this workflow, please cite:
 
 >  
-> *Multi-target Drug Repurposing Against Invasive Fungi Using a Multi-strategy Approach in a Data-poor Setting* 
+> *Repurposing of Bleomycetin Candidate Against Invasive Fungal Pathogens Using AI-Bind in a Data-poor Scenario* 
 
 ---
 
@@ -126,5 +126,36 @@ This project is shared for academic and research purposes.
 Please review the licensing terms of AI-Bind and the Broad Institute datasets before redistribution.
 
 ---
+# Molecular visualization files
+
+This repository contains the molecular visualization files associated with
+Figure 2 of the manuscript.
+
+## Figure 2A — Bleomycetin
+
+- `Figure_2A_Bleomycetin.pse`: PyMOL session containing the predicted
+  Bleomycetin–Trr1 docking complex and the visualization used to generate
+  Figure 2A.
+- `Figure_2A_Bleomycetin.png`: rendered image used for Figure 2A.
+- `Bleomycetin_Trr1.pdb`: coordinates of the predicted docking complex.
+
+Bleomycetin is shown as sticks. Selected predicted interacting residues are
+highlighted, while the catalytic residues Cys145 and Cys148 are shown
+separately for reference.
+
+Dashed lines represent selected predicted polar contacts, with distances
+reported in Å. These contacts are based on the predicted docking pose and
+should not be interpreted as experimental evidence of direct target
+engagement.
+
+## Software
+
+Molecular visualization was performed using PyMOL.
+
+## Reproducibility
+
+Open the `.pse` file in PyMOL to inspect the complete three-dimensional
+complex, modify the orientation, inspect individual residues, and measure
+interatomic distances.
 
 
